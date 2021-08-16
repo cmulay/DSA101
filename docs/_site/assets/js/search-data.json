@@ -1,0 +1,20 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "## About This is the documentation and a self paced learning track for the DSA101 repository, The track contains problem solution from basics to advance data structures and algorithm programs in multiple languages C, CPP, Java and Python. This repository also contain collection of solutions of Interview level DSA problems. For discussions and QnA use the repository [Discussion Tab](https://github.com/cmulay/DSA101/discussions)! Do contribute and star! ## Author: - [Chinmay Mulay](https://github.com/cmulay) ## Contributors ",
+    "url": "https://cmulay.github.io/DSA101/about/",
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Contributing",
+    "title": "Contributing",
+    "content": "# Getting started --- {: .fs-6 .fw-600 } Contribute to DSA101 ### Getting Started 1. Fork [this](https://github.com/cmulay/DSA101) repository to get started with contributing. 2. Clone the forked repository to your local machine ```bash git clone https://www.github.com//DSA101.git ``` 3. Open the repository directory and create a new branch with your username ```bash git branch ``` Check whether your branch has been created and listed ```bash git branch ``` Switch to your branch ```bash git checkout ``` 4. Add your solutions to the most suitable folder and commit it. 5. Send a pull request and we will merge it in main branch. --- {: .fs-6 .fw-600 } Contribute to DSA101 Docs ### Getting Started --- ",
+    "url": "https://cmulay.github.io/DSA101/contributing/",
+    "relUrl": "/contributing/"
+  },"2": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "# DSA101 | Documentation {: .fs-6 .fw-300 } Learn and Understand Data Structures and Algorithm at your pace [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on GitHub](https://github.com/cmulay/DSA101){: .btn .fs-5 .mb-4 .mb-md-0 } --- ## Getting started ",
+    "url": "https://cmulay.github.io/DSA101/",
+    "relUrl": "/"
+  }
+}

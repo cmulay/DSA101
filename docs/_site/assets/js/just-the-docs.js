@@ -53,13 +53,13 @@ function initNav() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', 'https://cmulay.github.io/DSA101/assets/js/search-data.json', true);
+  request.open('GET', 'http://localhost:4000/DSA101/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
       var docs = JSON.parse(request.responseText);
       
-      lunr.tokenizer.separator = /[\s\-/]+/
+      lunr.tokenizer.separator = /[\s/]+/
 
       var index = lunr(function(){
         this.ref('id');
@@ -430,7 +430,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', 'https://cmulay.github.io/DSA101/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', 'http://localhost:4000/DSA101/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Document ready

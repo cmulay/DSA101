@@ -20,6 +20,10 @@ Do contribute and star!
 
 ## Contributors
 
-<a href="https://github.com/cmulay/DSA101/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cmulay/DSA101" />
-</a>
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="64" height="64" alt="{{ contributor.login }}"/></a>
+  </li>
+{% endfor %}
+</ul>

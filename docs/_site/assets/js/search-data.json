@@ -47,126 +47,138 @@
     "url": "http://localhost:4000/DSA101/include/ds/binary_tree.html",
     "relUrl": "/include/ds/binary_tree.html"
   },"8": {
+    "doc": "Configuration",
+    "title": "Configure your machine to Test Site locally",
+    "content": ". Prerequisites . Building your site locally . EXTERNAL RESOURCES: . | GitHub Pages in the Jekyll documentation | Setting up a GitHub Pages site with Jekyll | . ",
+    "url": "http://localhost:4000/DSA101/configuring/#configure-your-machine-to-test-site-locally",
+    "relUrl": "/configuring/#configure-your-machine-to-test-site-locally"
+  },"9": {
+    "doc": "Configuration",
+    "title": "Configuration",
+    "content": " ",
+    "url": "http://localhost:4000/DSA101/configuring/",
+    "relUrl": "/configuring/"
+  },"10": {
     "doc": "Contributing",
     "title": "Getting started",
-    "content": ". Contribute to DSA101 . Getting Started . | Fork this repository to get started with contributing. | Clone the forked repository to your local machine . git clone https://www.github.com/&lt;YOUR-USER-NAME&gt;/DSA101.git . | Open the repository directory and create a new branch with your username git branch &lt;YOUR-USER-NAME&gt; . Check whether your branch has been created and listed . git branch . Switch to your branch . git checkout &lt;YOUR-BRANCH-NAME&gt; . | Add your solutions to the most suitable folder and commit it. | Send a pull request and we will merge it in main branch. | . Contribute to DSA101 Docs . Getting Started . ",
+    "content": ". Contribute to DSA101 . Getting Started . | Fork this repository to get started with contributing. | Clone the forked repository to your local machine . git clone -b main https://www.github.com/&lt;YOUR-USER-NAME&gt;/DSA101.git . | Open the repository directory and create a new branch with your username git branch &lt;YOUR-USER-NAME&gt; . Check whether your branch has been created and listed . git branch . Switch to your branch . git checkout &lt;YOUR-BRANCH-NAME&gt; . | Add your solutions to the most suitable folder and commit it. | Send a pull request and we will merge it in main branch. | . Contribute to DSA101 Docs . Getting Started . | Fork this repository to get started with contributing. | Clone the forked repository to your local machine . git clone -b docs https://www.github.com/&lt;YOUR-USER-NAME&gt;/DSA101.git . | Open the repository directory and create a new branch with your username git branch docs/&lt;YOUR-USER-NAME&gt; . Check whether your branch has been created and listed . git branch . Switch to your branch . git checkout docs/&lt;YOUR-BRANCH-NAME&gt; . | Make your changes to the docs in your branch and commit it. | Send a pull request and we will merge it in docs branch. | . See also: . | Configure your machine to test the docs locally. | . ",
     "url": "http://localhost:4000/DSA101/contributing/#getting-started",
     "relUrl": "/contributing/#getting-started"
-  },"9": {
+  },"11": {
     "doc": "Contributing",
     "title": "Contributing",
     "content": " ",
     "url": "http://localhost:4000/DSA101/contributing/",
     "relUrl": "/contributing/"
-  },"10": {
+  },"12": {
     "doc": "Data Structures",
     "title": "Data Structures",
     "content": "A data structure is a particular way of organizing data in a computer so that it can be used effectively. ",
     "url": "http://localhost:4000/DSA101/ds/",
     "relUrl": "/ds/"
-  },"11": {
+  },"13": {
     "doc": "Divide and Conquer",
     "title": "Divide and Conquer",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/algo/divide_and_conquer.html",
     "relUrl": "/include/algo/divide_and_conquer.html"
-  },"12": {
+  },"14": {
     "doc": "Dynamic Programming",
     "title": "Dynamic Programming",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/algo/dynamic_programming.html",
     "relUrl": "/include/algo/dynamic_programming.html"
-  },"13": {
+  },"15": {
     "doc": "Exhaustive Search",
     "title": "Exhaustive Search",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/algo/exhaustive_search.html",
     "relUrl": "/include/algo/exhaustive_search.html"
-  },"14": {
+  },"16": {
     "doc": "Graphs",
     "title": "Graphs",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/ds/graphs.html",
     "relUrl": "/include/ds/graphs.html"
-  },"15": {
+  },"17": {
     "doc": "Greedy Algoritm",
     "title": "Greedy Algoritm",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/algo/greedy_algorithm.html",
     "relUrl": "/include/algo/greedy_algorithm.html"
-  },"16": {
+  },"18": {
     "doc": "Hash Table",
     "title": "Hash Table",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/ds/hash_table.html",
     "relUrl": "/include/ds/hash_table.html"
-  },"17": {
+  },"19": {
     "doc": "Heap",
     "title": "Heap",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/ds/heap.html",
     "relUrl": "/include/ds/heap.html"
-  },"18": {
+  },"20": {
     "doc": "Home",
     "title": "DSA101 | Documentation",
     "content": "Learn and Understand Data Structures and Algorithm at your pace . Get started now View on GitHub . ",
     "url": "http://localhost:4000/DSA101/#dsa101--documentation",
     "relUrl": "/#dsa101--documentation"
-  },"19": {
+  },"21": {
     "doc": "Home",
     "title": "Getting started",
     "content": " ",
     "url": "http://localhost:4000/DSA101/#getting-started",
     "relUrl": "/#getting-started"
-  },"20": {
+  },"22": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/DSA101/",
     "relUrl": "/"
-  },"21": {
+  },"23": {
     "doc": "Linked List",
     "title": "Linked List",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/ds/linked_list.html",
     "relUrl": "/include/ds/linked_list.html"
-  },"22": {
+  },"24": {
     "doc": "Matrix",
     "title": "Matrix",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/ds/matrix.html",
     "relUrl": "/include/ds/matrix.html"
-  },"23": {
+  },"25": {
     "doc": "Queue",
     "title": "Queue",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/ds/queue.html",
     "relUrl": "/include/ds/queue.html"
-  },"24": {
+  },"26": {
     "doc": "Sliding Window",
     "title": "Sliding Window",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/algo/sliding_window.html",
     "relUrl": "/include/algo/sliding_window.html"
-  },"25": {
+  },"27": {
     "doc": "Sorting Algorithm",
     "title": "Sorting Algorithm",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/algo/sorting_algorithm.html",
     "relUrl": "/include/algo/sorting_algorithm.html"
-  },"26": {
+  },"28": {
     "doc": "Stack",
     "title": "Stack",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/ds/stack.html",
     "relUrl": "/include/ds/stack.html"
-  },"27": {
+  },"29": {
     "doc": "String",
     "title": "String",
     "content": " ",
     "url": "http://localhost:4000/DSA101/include/ds/string.html",
     "relUrl": "/include/ds/string.html"
-  },"28": {
+  },"30": {
     "doc": "Trie",
     "title": "Trie",
     "content": " ",

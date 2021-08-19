@@ -23,7 +23,7 @@ Contribute to DSA101
 2. Clone the forked repository to your local machine
 
    ```bash
-   git clone https://www.github.com/<YOUR-USER-NAME>/DSA101.git
+   git clone -b main https://www.github.com/<YOUR-USER-NAME>/DSA101.git
    ```
 
 3. Open the repository directory and create a new branch with your username
@@ -48,4 +48,29 @@ Contribute to DSA101 Docs
 
 ### Getting Started
 
----
+1. <img src="https://raw.githubusercontent.com/cmulay/python-projects/5e50774b529950d6f3c856ea2a4311a6a8884ddc/_repo_assets/fork.svg" width="15" height="15"> Fork [this](https://github.com/cmulay/DSA101) repository to get started with contributing.
+
+2. Clone the forked repository to your local machine
+
+   ```bash
+   git clone -b docs https://www.github.com/<YOUR-USER-NAME>/DSA101.git
+   ```
+
+3. Open the repository directory and create a new branch with your username
+   ```bash
+    git branch docs/<YOUR-USER-NAME>
+   ```
+   Check whether your branch has been created and listed
+   ```bash
+   git branch
+   ```
+   Switch to your branch
+   ```bash
+   git checkout docs/<YOUR-BRANCH-NAME>
+   ```
+4. Make your changes to the docs in your branch and commit it.
+5. Send a <img src="https://raw.githubusercontent.com/cmulay/python-projects/5e50774b529950d6f3c856ea2a4311a6a8884ddc/_repo_assets/pull_request.svg" width="15" height="15"> pull request and we will merge it in docs branch.
+
+#### See also:
+
+- [Configure your machine to test the docs locally](/DSA101/configuring/).
